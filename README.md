@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-wind-erzahlt-von-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Der Wind erzählt von dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-wind-erzahlt-von-dir/) |
+| **Get License** | [Get License For Der Wind erzählt von dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-wind-erzahlt-von-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, die City schläft, aber wir sind hellwach
+> Deine Blicke sind wie Feuer in der Mitte der Nacht
+> Der Wind erzählt von dir, unser Vibe ist so krass
+> Lass uns fliehen vor der Welt, Baby, drück auf das Gas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
